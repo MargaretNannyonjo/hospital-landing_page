@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hospital-landing_page/static/css/main.b953db45.css",
+    "main.js": "/hospital-landing_page/static/js/main.a86c044f.js",
+    "static/media/specialised.jpg": "/hospital-landing_page/static/media/specialised.e52bca6a9da600bb1fb1.jpg",
+    "static/media/maternity.jpg": "/hospital-landing_page/static/media/maternity.b664d7b9eb7730d88a50.jpg",
+    "static/media/primary.jpeg": "/hospital-landing_page/static/media/primary.6b744eae7ce4295cead2.jpeg",
+    "static/media/male.jpeg": "/hospital-landing_page/static/media/male.c5ef4ffc9bf593be894c.jpeg",
+    "static/media/male-nurse.jpeg": "/hospital-landing_page/static/media/male-nurse.83e757202304cb1e2eeb.jpeg",
+    "static/media/female.avif": "/hospital-landing_page/static/media/female.a987f7bb3843f770f3de.avif",
+    "static/media/nurse.jpg": "/hospital-landing_page/static/media/nurse.a96231d607587430df45.jpg",
+    "static/media/surgical.avif": "/hospital-landing_page/static/media/surgical.39f5f884e1a4adde58c9.avif",
+    "static/media/image.jpg": "/hospital-landing_page/static/media/image.9e02f3d52b809caf75b6.jpg",
+    "static/media/doc-female.webp": "/hospital-landing_page/static/media/doc-female.e27891884a9dbd2b7aa0.webp",
+    "static/media/female-nurse.avif": "/hospital-landing_page/static/media/female-nurse.bf6a2b662ec7c72d26ec.avif",
+    "static/media/emergency.webp": "/hospital-landing_page/static/media/emergency.d86131d90851b8c1cf51.webp",
+    "static/media/logo.avif": "/hospital-landing_page/static/media/logo.e13085c999be24c99671.avif",
+    "index.html": "/hospital-landing_page/index.html",
+    "main.b953db45.css.map": "/hospital-landing_page/static/css/main.b953db45.css.map",
+    "main.a86c044f.js.map": "/hospital-landing_page/static/js/main.a86c044f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b953db45.css",
+    "static/js/main.a86c044f.js"
+  ]
+}
